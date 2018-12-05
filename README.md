@@ -7,5 +7,9 @@ Installation Shell Script for different tools &amp; Framework
 cd Installation-Shell-Scripts
 ```
 ```
+chmod u+x jenkins.sh
+```
+```
 ./jenkins.sh
 ```
+
