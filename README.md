@@ -12,4 +12,6 @@ chmod u+x jenkins.sh
 ```
 ./jenkins.sh
 ```
-
+```
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+```
