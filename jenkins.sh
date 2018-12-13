@@ -7,5 +7,5 @@ sudo apt-get update -y
 sudo apt-get install jenkins -y 
 sudo ufw allow 8080
 sudo ufw status
-sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
 
