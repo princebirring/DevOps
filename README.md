@@ -1,4 +1,4 @@
-## Jenkins and Docker Installations Shell Script
+# Jenkins and Docker Installations Shell Script
 
 1. Clone the repository
 ```
@@ -27,7 +27,7 @@ sudo service jenkins restart
 sudo service jenkins stop
 sudo service jenkins start
 ```
-### Manage Docker as a non-root user
+# Manage Docker as a non-root user
 1. Create the docker group.
 ```
 sudo groupadd docker
