@@ -7,5 +7,7 @@ sudo apt-get update -y
 sudo apt-get install jenkins -y 
 sudo ufw allow 8080
 sudo ufw status
+#Installing the Docker in Ubuntu
+sudo apt-get install docker.io -y 
 
 
