@@ -1,4 +1,4 @@
-# Jenkins Installations Shell Script
+## Jenkins and Docker Installations Shell Script
 
 1. Clone the repository
 ```
