@@ -2,11 +2,11 @@
 
 1. Clone the repository
 ```
-git clone https://github.com/princebirring/jenkins-installation-shell-script.git
+https://github.com/princebirring/jenkins-docker.git
 ```
 2. Change the directory to the jenkins-installation shell script
 ```
-cd jenkins-installation-shell-script
+cd jenkins-docker
 ```
 3. Change the Permission of the jenkins shell script.
 ```
