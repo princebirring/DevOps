@@ -20,3 +20,10 @@ chmod u+x jenkins.sh
 ```
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
+6. Jenkins Status, Restart, Stop and Start. 
+```
+$ sudo service jenkins status
+$ sudo service jenkins restart
+$ sudo service jenkins stop
+$ sudo service jenkins start
+```
