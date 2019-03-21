@@ -36,3 +36,8 @@ sudo groupadd docker
 ```
 sudo usermod -aG docker $USER
 ```
+# Docker Commands
+1. Delete all the Container running on the machine(Be Careful).
+```
+docker container rm -f $(docker ps -aq)
+```
