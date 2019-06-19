@@ -41,3 +41,7 @@ sudo usermod -aG docker $USER
 ```
 docker container rm -f $(docker ps -aq)
 ```
+2. Delete Dangling Images
+```
+docker rmi $(docker images -qa -f 'dangling=true')
+```
